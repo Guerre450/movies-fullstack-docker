@@ -1,0 +1,6 @@
+[submodule "movies-backend-docker"]
+	path = movies-backend-docker
+	url = git@github.com:Guerre450/movies-backend-docker.git
+[submodule "movies-frontend-docker"]
+	path = movies-frontend-docker
+	url = git@github.com:Guerre450/movies-frontend-docker.git
